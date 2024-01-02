@@ -1,5 +1,6 @@
-#instalação do drive nvia T4, para outras placas deve ser similar
-Para instalar o driver NVIDIA no Ubuntu, com pacote `.deb` do driver, como no caso do `nvidia-driver-local-repo-ubuntu2204-525.147.05_1.0-1_amd64.deb`, você pode seguir os seguintes passos:
+# instalação do drive nvia T4
+Para outras placas deve ser similar
+Para instalar o driver NVIDIA no Ubuntu, com pacote `.deb` do driver, como no caso do `nvidia-driver-local-repo-ubuntu2204-525.147.05_1.0-1_amd64.deb`, você pode seguir os seguintes passos
 
 ## Link para downliad
 
