@@ -1,4 +1,4 @@
-Aqui está o procedimento para instalar o driver NVIDIA e o Container Runtime no Ubuntu 22.04, formatado em Markdown:
+Aqui está o procedimento para instalar o driver NVIDIA e o Container Runtime no Ubuntu 22.04:
 
 ---
 ### Instalação do Container Runtime
